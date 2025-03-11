@@ -1,0 +1,5 @@
+opencv-python 
+fer 
+google-generativeai 
+speechrecognition 
+pyttsx3
